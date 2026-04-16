@@ -7,12 +7,12 @@ The system manages books and users through a console-based application.
 
 ## 🚀 Features
 
-- Add new books  
-- Remove books by ID  
-- View all books  
-- Search for books by title  
-- Borrow books with user validation  
-- User system for borrowing process  
+- ➕ Add new books  
+- ❌ Remove books by ID  
+- 📋 View all books  
+- 🔍 Search for books by title  
+- 📖 Borrow books with user validation  
+- 👤 User system for borrowing process  
 
 ---
 
@@ -23,16 +23,16 @@ The system manages books and users through a console-based application.
 - Encapsulation  
 - Lists  
 - Methods & Functions  
-- System design basics  
+- System Design Basics  
 
 ---
 
 ## 🏗️ Project Structure
 
-main.dart → Entry point of the application  
-Book.dart → Book model class  
-BookManager.dart → Handles all book operations  
-User.dart → User model class  
+- main.dart → Entry point of the application  
+- Book.dart → Book model class  
+- BookManager.dart → Handles all book operations  
+- User.dart → User model class  
 
 ---
 
@@ -45,22 +45,29 @@ User.dart → User model class
   - Remove books  
   - Search books  
   - Borrow books  
-- main.dart runs and tests the system  
+- main.dart runs the system and tests all features  
 
 ---
 
 ## ▶️ How to Run
 
-Run the project using Dart SDK:
-
 ```bash
-
 dart run
+```
+
+💡 Future Improvements
+Add return book functionality
+Track borrowed books per user
+Add interactive CLI menu
+Improve validation and error handling
+Save data to file or database
+Convert project into Flutter application
+
 👨‍💻 Author
 
-Ziyad Bohdor
+Name: Ziyad Bohdor
 
-⭐ Notes
+⭐ Note
 
-This project is part of my journey to learn Flutter Development,
-starting with strong foundations in Dart and OOP.
+This project is part of my journey learning Dart and Flutter development, focusing on Object-Oriented Programming (OOP) and building real-world systems.
+
