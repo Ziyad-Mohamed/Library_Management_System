@@ -56,12 +56,12 @@ dart run
 ```
 
 💡 Future Improvements
-Add return book functionality
-Track borrowed books per user
-Add interactive CLI menu
-Improve validation and error handling
-Save data to file or database
-Convert project into Flutter application
+- Add return book functionality
+- Track borrowed books per user
+- Add interactive CLI menu
+- Improve validation and error handling
+- Save data to file or database
+- Convert project into Flutter application
 
 👨‍💻 Author
 
